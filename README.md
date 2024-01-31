@@ -5,6 +5,8 @@
 - [ ] PR for RLending Customer: [PR #377](https://github.com/responsiblelife/rer-website-futureproof/pull/377)
 - [ ] PR for Adviser Site: [PR #380](https://github.com/responsiblelife/rer-website-futureproof/pull/380)
 - [ ] PR for Adviser Products: [PR #382](https://github.com/responsiblelife/rer-website-futureproof/pull/382)
+
+*The PRs for the customer site seems to have some extra commits which I have no clue how they've come in so feel free to drag me into a call 
 ## SQL Statements and Descriptions
 
 | S.No | SQL Query | Description |
